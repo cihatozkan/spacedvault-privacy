@@ -1,6 +1,18 @@
-SpacedVault Privacy Policy
+# SpacedVault Privacy Policy
 
-Data Storage: All data is stored locally on your device.
-Data Collection: We do not collect any personal information.
-Internet: The app works completely offline.
-Contact: cihatozkan@outlook.com
+**Last updated: September 4, 2025**
+
+## Data Collection
+SpacedVault does not collect any personal information or user data.
+
+## Data Storage
+All your learning cards, progress, and settings are stored locally on your device. No data is transmitted to external servers.
+
+## Internet Usage
+SpacedVault works completely offline and does not require an internet connection.
+
+## Changes
+Any updates to this policy will be reflected in app updates.
+
+## Contact
+For questions about this privacy policy, contact: cihatozkan@outlook.com
